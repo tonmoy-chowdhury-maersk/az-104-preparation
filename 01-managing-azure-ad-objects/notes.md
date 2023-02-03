@@ -11,9 +11,3 @@ Configuring SSPR
 
 
 
-
-terms
----
-access to Azure AD as a global administrator.
-Azure AD Premium P1 license
-
